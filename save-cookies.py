@@ -52,8 +52,8 @@ driver.get('https://www.facebook.com/')
 
 time.sleep(5)
 
-usr = "sarfaraz.w.jamal@gmail.com"
-pwd = "wahid52625"
+usr = "ENTER YOUR FACEBOOK LOGIN EMAIL"
+pwd = "ENTER YOUR FACEBOOK LOGIN PASSWORD"
 
  
 username_box = driver.find_element(By.ID, 'email')
